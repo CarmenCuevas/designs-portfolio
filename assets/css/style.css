@@ -891,6 +891,13 @@ blockquote {
   border: none;
   border-left: 4px solid #b8a07e;
 }
+.img-blog {
+  width: 800px;
+  height: 250px;
+  background-image: url(../img/portfolio/Blog/estrellacolor.jpg);
+  background-size: 85%;
+  background-position:  left 20% center;
+  }
 
 /*--------------------------------------------------------------
 # Footer

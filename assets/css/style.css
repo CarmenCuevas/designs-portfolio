@@ -50,7 +50,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #AB85E5;
   text-decoration: underline;
 }
 
@@ -178,7 +178,7 @@ nav {
   float: right;
   line-height: 32px;
   margin-bottom: 0;
-  padding-top: 16px;
+  padding-top: 10px;
 }
 
 nav ul li {
@@ -208,8 +208,9 @@ nav ul li a {
 }
 
 .logo img {
-  width: 100px;
-  height: 50px;
+  margin: 5px;
+  width: 200px;
+  height: 25px;
 }
 
 .responsive {
@@ -338,7 +339,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #F5B7B1;
+  border: 20px solid #AB85E5;
 }
 
 #about .div-img-bg .about-img img {
@@ -395,7 +396,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #6C14F7;
   line-height: 44px;
 }
 
@@ -421,7 +422,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #6C14F7;
 }
 
 .owl-nav {
@@ -459,7 +460,7 @@ nav ul li a {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #6C14F7;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -553,7 +554,7 @@ nav ul li a {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #b8a07e !important;
+  background-color: #6C14F7 !important;
 
 }
 
@@ -889,7 +890,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid #AB85E5;
 }
 .img-blog {
   width: 800px;
